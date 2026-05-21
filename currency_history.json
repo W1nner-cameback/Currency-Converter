@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-05-21 20:08:55",
+        "amount": 500.0,
+        "from_currency": "USD",
+        "result": 430.5,
+        "to_currency": "EUR",
+        "rate": 0.861
+    },
+    {
+        "timestamp": "2026-05-21 20:09:22",
+        "amount": 500.0,
+        "from_currency": "JPY",
+        "result": 2.71,
+        "to_currency": "EUR",
+        "rate": 0.00542
+    }
+]
